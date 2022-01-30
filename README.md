@@ -1,2 +1,2 @@
-# discovery-server
-Eureka Discovery Server
+# eureka-discovery-server
+Spring boot Discovery Service Implmentation usign Eureka
